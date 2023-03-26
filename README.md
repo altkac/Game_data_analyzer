@@ -1,5 +1,5 @@
 # Game_data_analyzer.
-Playtech Internship Assignment
+Playtech Internship Assignment.
 
 To run the project you will need to setup SDK.
 I was using "temurin-17 Eclipse Temurin version 17.0.6".
